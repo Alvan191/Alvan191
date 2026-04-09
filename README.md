@@ -57,6 +57,12 @@
   </tr>
 </table>
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-delta-cyan-72.vercel.app/api?username=Alvan191&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alvan191&theme=ayu-mirage&hide_border=true&count_private=true&cache=1" height="150" alt="streak graph" /> -->
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ferico5/Ferico5/output/pacman-contribution-graph-dark.svg">
