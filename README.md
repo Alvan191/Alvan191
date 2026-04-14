@@ -64,6 +64,8 @@
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alvan191&theme=ayu-mirage&hide_border=true&count_private=true&cache=1" height="150" alt="streak graph" /> -->
 </div>
 
+### 🔆 Pacman Game
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alvan191/Alvan191/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alvan191/Alvan191/output/pacman-contribution-graph.svg">
