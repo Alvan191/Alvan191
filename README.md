@@ -74,4 +74,4 @@
 
 
 <!-- <img src="https://raw.githubusercontent.com/Alvan191/Alvan191/output/snake.svg" alt="Snake animation" /> -->
-<!-- im so happy today -->
+<!-- see you tomorrow guys -->
