@@ -74,4 +74,4 @@
 
 
 <!-- <img src="https://raw.githubusercontent.com/Alvan191/Alvan191/output/snake.svg" alt="Snake animation" /> -->
-<!-- hay this is my typing -->
+<!-- see you again and again -->
